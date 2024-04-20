@@ -1,0 +1,33 @@
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+.cover{
+
+  background-image:url(https://cdn.glitch.global/6b829e37-c1f1-4fa0-a49f-dd599bcf97ed/rsz_1fondo_lab.jpg?v=1668537530785);
+  background-size: cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.80);
+  background-blend-mode: darken;
+  
+}
+.fondo2{
+  background-image: url(https://cdn.glitch.global/6b829e37-c1f1-4fa0-a49f-dd599bcf97ed/fondo%20de%20ingreso.jpg?v=1668667380641);
+  background-size: cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.85);
+  background-blend-mode: darken;
+ 
+}
+
+.cover2{
+    height: 200px;
+    width: 800px;
+  background: #b9bbbe;
+  background-position:center;
+   background-size: cover;
+   text: center;
+  
+}
